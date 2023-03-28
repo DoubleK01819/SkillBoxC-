@@ -1,0 +1,15 @@
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\bin\Debug\net7.0\Module6SkillboxCsh.exe
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\bin\Debug\net7.0\Module6SkillboxCsh.deps.json
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\bin\Debug\net7.0\Module6SkillboxCsh.runtimeconfig.json
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\bin\Debug\net7.0\Module6SkillboxCsh.dll
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\bin\Debug\net7.0\Module6SkillboxCsh.pdb
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.csproj.AssemblyReference.cache
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.AssemblyInfoInputs.cache
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.AssemblyInfo.cs
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.csproj.CoreCompileInputs.cache
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.dll
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\refint\Module6SkillboxCsh.dll
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.pdb
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\Module6SkillboxCsh.genruntimeconfig.cache
+F:\С#\HomeWorkSkillbox\Module6SkillboxCsh\Module6SkillboxCsh\obj\Debug\net7.0\ref\Module6SkillboxCsh.dll
