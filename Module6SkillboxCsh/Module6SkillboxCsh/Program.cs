@@ -10,6 +10,7 @@ namespace Module6SkillboxCsh
         static void Main(string[] args)
         {
             bool isOut = false;
+            var file = @"module6.txt";
 
             while (!isOut)
             {
@@ -18,10 +19,10 @@ namespace Module6SkillboxCsh
                 switch (Convert.ToInt32(Console.ReadLine()))
                 {
                     case 1:
-                        ReadFile();
+                        ReadFile(file);
                         break;
                     case 2:
-                        WriteFile();
+                        WriteFile(file);
                         break;
                     case 3:
                         isOut = true;
@@ -34,7 +35,7 @@ namespace Module6SkillboxCsh
             }
         }
 
-        static void WriteFile()
+        static void WriteFile(string file)
         {
             Console.WriteLine("Введите запись");
             Console.Write("Введите ID: ");
@@ -49,16 +50,16 @@ namespace Module6SkillboxCsh
             string dataOfBirth = Console.ReadLine();
             Console.Write("Введите в каком городе родился рождения: ");
             string placeOfBirth = Console.ReadLine();
-            var allData = $"{id}#{DateTime.Now}#{name}#{age}#{heigtth}#{dataOfBirth}#город {placeOfBirth}\n\n\n";
-            File.AppendAllText(@"f:\module6.txt", allData);
+            var allData = string.Join("#", id, DateTime.Now, name, age, heigtth, dataOfBirth, placeOfBirth);
+            File.AppendAllText(file, allData);
             Console.WriteLine("Нажмите любую кнопку");
         }
 
-        static void ReadFile()
+        static void ReadFile(string file)
         {
-            if (File.Exists(@"f:\module6.txt"))
+            if (File.Exists(file))
             {
-                string text = File.ReadAllText(@"f:\module6.txt");
+                string text = File.ReadAllText(file);
                 string[] lines = text.Split('#');
 
 
