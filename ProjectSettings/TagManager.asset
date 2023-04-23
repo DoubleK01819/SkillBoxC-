@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damaheable
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Bullet
+  - Player
+  - Enemy
+  - Bridge
+  - BackGround
+  - Invize
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1001443375
+    locked: 0
+  - name: Wall
+    uniqueID: 4292770963
+    locked: 0
+  - name: Stairs
+    uniqueID: 2587000759
+    locked: 0
+  - name: Objects
+    uniqueID: 2897472951
+    locked: 0
+  - name: Player
+    uniqueID: 3390397975
+    locked: 0
+  - name: RitghtWall
+    uniqueID: 1739100325
+    locked: 0
