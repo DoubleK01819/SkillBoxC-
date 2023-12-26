@@ -1,0 +1,4 @@
+﻿  Task4.cpp
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task4\Task4.cpp(17,16): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task4\Task4.cpp(21,16): warning C4804: <: небезопасное использование типа "bool" в операции
+  Task4.vcxproj -> C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\x64\Debug\Task4.exe

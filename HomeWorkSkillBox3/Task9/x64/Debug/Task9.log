@@ -1,0 +1,6 @@
+﻿  Task9.cpp
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task9\Task9.cpp(16,64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task9\Task9.cpp(18,17): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task9\Task9.cpp(20,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\Task9\Task9.cpp(24,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Task9.vcxproj -> C:\Users\admin\Documents\C++SKillbox\HomeWorkSkillBox3\x64\Debug\Task9.exe
